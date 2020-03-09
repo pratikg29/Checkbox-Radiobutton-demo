@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Trivia App-Trivia AppUITests/Pods-Trivia App-Trivia AppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
